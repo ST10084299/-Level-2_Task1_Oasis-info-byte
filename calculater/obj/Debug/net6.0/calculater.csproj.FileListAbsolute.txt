@@ -1,0 +1,62 @@
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\calculater.staticwebassets.runtime.json
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\calculater.exe
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\calculater.deps.json
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\calculater.runtimeconfig.json
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\calculater.dll
+C:\Users\razia\source\repos\calculater\bin\Debug\net6.0\calculater.pdb
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.csproj.AssemblyReference.cache
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.AssemblyInfoInputs.cache
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.AssemblyInfo.cs
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.csproj.CoreCompileInputs.cache
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.RazorAssemblyInfo.cache
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.RazorAssemblyInfo.cs
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\staticwebassets\msbuild.calculater.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\staticwebassets\msbuild.build.calculater.props
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.calculater.props
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.calculater.props
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\scopedcss\bundle\calculater.styles.css
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\scopedcss\projectbundle\calculater.bundle.scp.css
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.dll
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\refint\calculater.dll
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.pdb
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\calculater.genruntimeconfig.cache
+C:\Users\razia\source\repos\calculater\obj\Debug\net6.0\ref\calculater.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\calculater.staticwebassets.runtime.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\calculater.exe
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\calculater.deps.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\calculater.runtimeconfig.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\calculater.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\bin\Debug\net6.0\calculater.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.csproj.AssemblyReference.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.AssemblyInfoInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.AssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.csproj.CoreCompileInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.RazorAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.RazorAssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\staticwebassets\msbuild.calculater.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\staticwebassets\msbuild.build.calculater.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.calculater.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.calculater.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\scopedcss\bundle\calculater.styles.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\scopedcss\projectbundle\calculater.bundle.scp.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\refint\calculater.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\calculater.genruntimeconfig.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 2\calculater\obj\Debug\net6.0\ref\calculater.dll
